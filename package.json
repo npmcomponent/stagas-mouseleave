@@ -1,0 +1,14 @@
+{
+  "name": "stagas-mouseleave",
+  "description": "mouseleave shim utility",
+  "version": "0.0.2",
+  "keywords": [
+    "mouse",
+    "mouseleave",
+    "events"
+  ],
+  "dependencies": {
+    "stagas-within": "git://github.com/npmcomponent/stagas-within.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  }
+}
